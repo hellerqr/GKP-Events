@@ -14,3 +14,4 @@ jobs:
         server: leonha.lima-ftp.de
         username: leonha
         password: ${{ secrets.ftp_password }}
+        local-dir: /default-website
