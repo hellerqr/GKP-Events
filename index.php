@@ -6,7 +6,7 @@
     <body>
         <header>
             <div class="logo">
-            <a href="index.php"><img src="" alt="Logo" 
+            <a href="index.php"><img src="images/logo.png" alt="Logo" 
             style="width:42px;height:42px;"></a>
             </div>
         </header>
