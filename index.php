@@ -4,6 +4,11 @@
         <link rel="stylesheet" href="stylesheet.css">
     </head>
     <body>
-        <h1>Hallo! Test</h1>
+        <header>
+            <div class="logo">
+            <a href="index.php"><img src="" alt="Logo" 
+            style="width:42px;height:42px;"></a>
+            </div>
+        </header>
     </body>
 </html>
